@@ -1,6 +1,6 @@
 name: Molas Spa
 favicon: null
-layout_spectrum: 0.89160504960455
+layout_spectrum: 0.75972
 typography_spectrum: 0.3367013137321919
 title: Molas Spa
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.7757313931360841
-  lightness: 0.9408905529417098
-  saturation: 0.052675731712952256
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.3125
   rhythmicContrast: 0.7622854048386216
 purpose: []
